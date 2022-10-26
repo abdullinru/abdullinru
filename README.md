@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @abdullinru
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Abdullin Ruslan.
+- 👀 Interested in Java programming
+- 🌱 I am currently studying at the online university skyPro at the faculty of Java development
+- 📫 How to contact me:
+telegram: @abdullinru
+email: abdullin1989@gmail.com
 
 <!---
 abdullinru/abdullinru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
