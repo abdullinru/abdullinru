@@ -1,6 +1,5 @@
 Hi, I'm Abdullin Ruslan.
 - 👀 Interested in Java programming
-- 🌱 I graduated the online university skyPro at the faculty of Java development
 - 📫 How to contact me:
 telegram: @abdullinru
 email: abdullin1989@gmail.com
